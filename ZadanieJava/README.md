@@ -1,0 +1,1 @@
+Zadanie z programowania współbieżnego
